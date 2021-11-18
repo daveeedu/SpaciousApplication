@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,288 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+
+
+.shape1 {
+  
+  height: 200px;
+  width: 250px ;
+  left: 0;
+  top: 0;
+
+  background: #ffffff;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+.shape2 {
+  width: 248px ;
+  left: 0px;
+  top: 0px;
+  border-radius: 16px !important;
+
+  background: #ffffff;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.character-img{
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 32%;
+
+border-radius: 16px 16px 0px 0px !important; 
+
+}
+.card-body{
+  padding: 0 !important;
+}
+
+.Sidebar{
+  width: 50%;
+  border: 2px solid red; 
+  padding-right: 50px;
+}
+
+.alpha-wraper {
+  position: absolute;
+  display: flex;
+  justify-content: flex-end;
+
+ /* align-items: flex-end;  */
+cursor: pointer;
+}
+.alpha-wraper .coverd{
+  margin-right: 240px !important;
+}
+
+.coverd {
+  width: 50px;
+  height: 872px;
+  position: absolute;
+  top: 32px;
+  background: #FFFFFF;
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+  border-radius: 32px;
+  
+}
+
+.JC .cooper {
+ padding-top: 20px ;
+width: 344px;
+height: 48px;
+left: 970px;
+top: 60px;
+
+/* subtitle/default */
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 800;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+
+
+/* primary */
+
+color: #121C33;
+}
+
+.JC .details {
+padding-top: 25px;
+width: 344px;
+height: 48px;
+left: 970px;
+top: 110px;
+
+/* body / default */
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 24px;
+
+/* primary */ 
+
+ color: #121C33;
+
+opacity: 0.6;
+}
+
+ .PA {
+  padding-top: 55px;
+width: 168px;
+height: 24px;
+left: 970px;
+top: 200px;
+
+/* body / bold */
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+/* primary */
+
+color: #121C33;
+} 
+.FS {
+  padding-top: 55px;
+width: 168px;
+height: 24px;
+left: 1100px;
+top: 200px;
+
+/* body / bold */
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+/* primary */
+
+color: #121C33;
+} 
+
+
+.FR .frnd{
+ padding-top: 60px;
+ padding-bottom: 10px;
+width: 344px;
+height: 24px;
+left: 970px;
+top: 240px;
+
+/* action / default */
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+/* primary */
+
+color: #121C33;
+
+opacity: 0.6;
+}
+
+.frndPic{
+  margin-right: 14px;
+width: 75px;
+left: 930px;
+
+
+
+
+border-radius: 30px !important;
+}
+
+.frndBarName{
+  margin-right: 30px;
+  font-weight: 600;
+  font-size: 16px;
+  left: 1045px;
+  line-height: 25px;
+}
+
+.frndBarContent{
+ 
+  font-size: 12px;
+  left: 1045px;
+  color: #121C33;
+
+}
+
+.close .close {
+  display: flex;
+  justify-content: flex-end;
+  display:inline-block;
+  padding-right:10px;
+  background:#ccc;
+}
+
+.close:hover {
+  display:inline-block;
+  padding: 10px;;
+  color:#fff;
+}
+
+.addbutton {
+  position: absolute;
+width: 56px;
+height: 56px;
+left: 1100px;
+top: 728px;
+
+/* primary */
+
+background: #121C33;
+box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+border-radius: 40px;
+}
+
+.pheader {
+width: 169px;
+height: 72px;
+font-family: Poppins;
+display: flex;
+align-items: center;
+letter-spacing: 1px;
+
+color: #121C33;
+}
+
+.ptitle {
+  position: static;
+width: 53px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* body / bold */
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+
+/* primary */
+
+color: #121C33;
+
+
+/* Inside Auto Layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 8px 0px;
+}
+
+.add { 
+  padding-right: 70px;
 }
