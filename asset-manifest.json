@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/SpaciousApplication/static/css/main.f085cda4.chunk.css",
-    "main.js": "/SpaciousApplication/static/js/main.aa4d836d.chunk.js",
-    "main.js.map": "/SpaciousApplication/static/js/main.aa4d836d.chunk.js.map",
+    "main.css": "/SpaciousApplication/static/css/main.4b9be15c.chunk.css",
+    "main.js": "/SpaciousApplication/static/js/main.d09979e6.chunk.js",
+    "main.js.map": "/SpaciousApplication/static/js/main.d09979e6.chunk.js.map",
     "runtime-main.js": "/SpaciousApplication/static/js/runtime-main.cc84c3d3.js",
     "runtime-main.js.map": "/SpaciousApplication/static/js/runtime-main.cc84c3d3.js.map",
     "static/css/2.383c0125.chunk.css": "/SpaciousApplication/static/css/2.383c0125.chunk.css",
-    "static/js/2.da8b731c.chunk.js": "/SpaciousApplication/static/js/2.da8b731c.chunk.js",
-    "static/js/2.da8b731c.chunk.js.map": "/SpaciousApplication/static/js/2.da8b731c.chunk.js.map",
+    "static/js/2.cf3140fc.chunk.js": "/SpaciousApplication/static/js/2.cf3140fc.chunk.js",
+    "static/js/2.cf3140fc.chunk.js.map": "/SpaciousApplication/static/js/2.cf3140fc.chunk.js.map",
     "static/js/3.980da602.chunk.js": "/SpaciousApplication/static/js/3.980da602.chunk.js",
     "static/js/3.980da602.chunk.js.map": "/SpaciousApplication/static/js/3.980da602.chunk.js.map",
     "index.html": "/SpaciousApplication/index.html",
     "static/css/2.383c0125.chunk.css.map": "/SpaciousApplication/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.f085cda4.chunk.css.map": "/SpaciousApplication/static/css/main.f085cda4.chunk.css.map",
-    "static/js/2.da8b731c.chunk.js.LICENSE.txt": "/SpaciousApplication/static/js/2.da8b731c.chunk.js.LICENSE.txt",
+    "static/css/main.4b9be15c.chunk.css.map": "/SpaciousApplication/static/css/main.4b9be15c.chunk.css.map",
+    "static/js/2.cf3140fc.chunk.js.LICENSE.txt": "/SpaciousApplication/static/js/2.cf3140fc.chunk.js.LICENSE.txt",
     "static/media/character-10.f6fdbe59.png": "/SpaciousApplication/static/media/character-10.f6fdbe59.png",
     "static/media/character-12.93868536.png": "/SpaciousApplication/static/media/character-12.93868536.png",
     "static/media/character-16.68426aac.png": "/SpaciousApplication/static/media/character-16.68426aac.png",
@@ -36,8 +36,8 @@
   "entrypoints": [
     "static/js/runtime-main.cc84c3d3.js",
     "static/css/2.383c0125.chunk.css",
-    "static/js/2.da8b731c.chunk.js",
-    "static/css/main.f085cda4.chunk.css",
-    "static/js/main.aa4d836d.chunk.js"
+    "static/js/2.cf3140fc.chunk.js",
+    "static/css/main.4b9be15c.chunk.css",
+    "static/js/main.d09979e6.chunk.js"
   ]
 }
