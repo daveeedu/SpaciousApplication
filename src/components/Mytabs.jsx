@@ -12,10 +12,10 @@ const MyTabs = () => {
         id="uncontrolled-tab-example"
         className="mb-3 bb"
       >
-        <Tab eventKey="home" title="Home">
+        <Tab eventKey="home" title="Planets">
           <Planets />
         </Tab>
-        <Tab eventKey="profile" title="Profile">
+        <Tab eventKey="profile" title="Characters">
           <Character />
         </Tab>
       </Tabs>

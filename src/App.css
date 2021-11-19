@@ -90,8 +90,13 @@ cursor: pointer;
   margin-right: 240px !important;
 }
 
+.planetcard {
+  display: flex;
+  justify-content: space-between;
+}
+
 .coverd {
-  width: 50px;
+  width: 420px;
   height: 872px;
   position: absolute;
   top: 32px;
@@ -266,8 +271,8 @@ border-radius: 30px !important;
   position: absolute;
 width: 56px;
 height: 56px;
-left: 1100px;
-top: 728px;
+left: 1050px;
+top: 928px;
 
 /* primary */
 
@@ -319,4 +324,34 @@ margin: 8px 0px;
 
 .add { 
   padding-right: 70px;
+}
+
+@media (max-width: 1024px){
+  .addbutton {
+    position: absolute;
+  width: 56px;
+  height: 56px;
+  left: 650px !important;
+  top: 1350px;
+}
+}
+
+@media (max-width: 768px){
+  .addbutton {
+    position: absolute;
+  width: 56px;
+  height: 56px;
+  left: 650px !important;
+  top: 850px;
+}
+}
+
+@media (max-width: 425px){
+  .addbutton {
+    position: absolute;
+  width: 56px;
+  height: 56px;
+  left: 250px !important;
+  top: 2650px;
+}
 }

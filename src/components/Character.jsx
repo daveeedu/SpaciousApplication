@@ -13,11 +13,12 @@ const Character = () => {
     const [Character, setCharacter] = useState(false)
     const sideclick = () => (setCharacter(!Character))
   return (
-    <div className="container row g-4">
+    <div className="d-flex row ">
+          <div className="d-flex flex-row col-12 col-sm-6 col-md-12 flex-wrap">
       {characters.map((character) => {
 
         return (
-              <Col className="d-flex justify-content-between"  md={3} lg={4} xl={3} onClick={sideclick}>
+              <Col className="d-flex justify-content-between my-4 mx-2 px-0" sm={12}  md={3} lg={4} xl={3} onClick={sideclick}>
                 <Card className="shape2" href="/sidebar">
                   <Card.Img className="character-img" variant="top" src={character.image} />
                   <Card.Body>
@@ -32,6 +33,7 @@ const Character = () => {
       {
           Character && <Sidebar />
       }
+    </div>
     </div>
   );
 };

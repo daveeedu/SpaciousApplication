@@ -7,7 +7,7 @@ import { CloseButton } from 'react-bootstrap'
 const Sidebartwo = () => {
     return (
         <div className="container alpha-wraper row rounded ">
-            <div   className="coverd  pt-4 me-5 d-none d-md-block d-lg-block">
+            <div   className="coverd col-4 col-sm-12 col-md-7 col-lg-4  pt-4 d-none d-md-block d-lg-block">
             <CloseButton className="float-end "/>
             <Sidebarheadertwo />
             <Sidebarfriends />
