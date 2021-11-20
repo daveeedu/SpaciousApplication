@@ -71,46 +71,55 @@ export const planets = [
 
 export const characters = [
     {
+        "id": 1,
         "name" : "Brooklyn Simmons",
         "image" : char7,
         "friends" : "23 friends"
     },
     {
+        "id": 2,
         "name" : "Cameron Williamson",
         "image" : char12,
         "friends" : "23 friends"
     },
     {
+        "id": 3,
         "name" : "Jerome Bell",
         "image" : char6,
         "friends" : "23 friends"
     },
     {
+        "id": 4,
         "name" : "Guy Hawkins",
         "image" : char16,
         "friends" : "23 friends"
     },
     {
+        "id": 5,
         "name" : "Jenny Wilson",
         "image" : char2,
         "friends" : "23 friends"
     },
     {
+        "id": 6,
         "name" : "Marvin McKinney",
         "image" : char8,
         "friends" : "23 friends"
     },
     {
+        "id": 7,
         "name" : "Kristin Watson",
         "image" : char5,
         "friends" : "23 friends"
     },
     {
-        "name" : "Marvin McKinney",
+        "id": 8,
+        "name" : "Leslie Alexander",
         "image" : char9,
         "friends" : "23 friends"
     },
     {
+        "id": 9,
         "name" : "Robert Fox",
         "image" : char10,
         "friends" : "23 friends"
